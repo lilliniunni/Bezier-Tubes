@@ -1,6 +1,6 @@
 # Bezier-Tubes
 ## How to run
-You can view the Bezier tubes by cloning the repo and opening the indx.html file in your browser. 
+You can view the Bezier tubes by cloning the repo and opening the index.html file in your browser. 
 
 If you have any questions regarding my work feel free to contact me at <yunnizhu@gatech.edu>. 
 
